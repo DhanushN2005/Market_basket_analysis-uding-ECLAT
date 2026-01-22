@@ -1,5 +1,4 @@
 # Market_basket_analysis-uding-ECLAT
-# Market Basket Analysis Using ECLAT
 
 This repository demonstrates how to perform **Market Basket Analysis** using the **ECLAT (Equivalence Class Clustering and bottom-up Lattice Traversal)** algorithm to find frequent itemsets in transactional datasets.
 
